@@ -1,0 +1,112 @@
+[{
+     "gender": "male",
+     "age": 43,
+     "vocation": "doctor",
+     "education_level": "phd",
+     "Openness": "low",
+     "Conscientiousness": "high",
+     "Extraversion": "low",
+     "Agreeableness": "low",
+     "Neuroticism": "low"
+}
+,{
+     "gender": "female",
+     "age": 24,
+     "vocation": "teacher",
+     "education_level": "bachelor",
+     "Openness": "high",
+     "Conscientiousness": "high",
+     "Extraversion": "high",
+     "Agreeableness": "high",
+     "Neuroticism": "high"
+}
+,
+{
+     "gender": "male",
+     "age": 56,
+     "vocation": "teacher",
+     "education_level": "bachelor",
+     "Openness": "low",
+     "Conscientiousness": "high",
+     "Extraversion": "low",
+     "Agreeableness": "high",
+     "Neuroticism": "low"
+},
+{
+     "gender": "male",
+     "age": 36,
+     "vocation": "policeman",
+     "education_level": "bachelor",
+     "Openness": "low",
+     "Conscientiousness": "low",
+     "Extraversion": "low",
+     "Agreeableness": "high",
+     "Neuroticism": "low"
+},
+
+{
+     "gender": "female",
+     "age": 40,
+     "vocation": "writer",
+     "education_level": "bachelor",
+     "Openness": "high",
+     "Conscientiousness": "high",
+     "Extraversion": "low",
+     "Agreeableness": "high",
+     "Neuroticism": "low"
+},
+{
+     "gender": "male",
+     "age": 32,
+     "vocation": "pianist",
+     "education_level": "bachelor",
+     "Openness": "high",
+     "Conscientiousness": "high",
+     "Extraversion": "low",
+     "Agreeableness": "high",
+     "Neuroticism": "low"
+},
+{
+     "gender": "female",
+     "age": 48,
+     "vocation": "nurse",
+     "education_level": "high school",
+     "Openness": "low",
+     "Conscientiousness": "high",
+     "Extraversion": "low",
+     "Agreeableness": "high",
+     "Neuroticism": "low"
+},
+{
+     "gender": "male",
+     "age": 29,
+     "vocation": "programmer",
+     "education_level": "phd",
+     "Openness": "high",
+     "Conscientiousness": "high",
+     "Extraversion": "low",
+     "Agreeableness": "high",
+     "Neuroticism": "high"
+},
+{
+     "gender": "male",
+     "age": 50,
+     "vocation": "judge",
+     "education_level": "phd",
+     "Openness": "low",
+     "Conscientiousness": "high",
+     "Extraversion": "high",
+     "Agreeableness": "high",
+     "Neuroticism": "low"
+},
+  {
+     "gender": "male",
+     "age": 32,
+     "vocation": "salesman",
+     "education_level": "high school",
+     "Openness": "low",
+     "Conscientiousness": "low",
+     "Extraversion": "low",
+     "Agreeableness": "low",
+     "Neuroticism": "high"
+  }]
